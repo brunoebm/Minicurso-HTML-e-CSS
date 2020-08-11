@@ -4,10 +4,16 @@ body{
     max-width: 500px;
     background-color: indigo;
 }
-p{
+#primeiro{
     font-size: 25px;
     background-color: khaki;
     border-radius: 10px;
     padding: 20px
     ;
+}
+.fundo-verde{
+    font-size: 25px;
+    background-color:green;
+    border-radius: 10px;
+    padding: 20px
 }
