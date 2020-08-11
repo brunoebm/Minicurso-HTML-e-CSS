@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin:auto;
+    max-width: 500px;
+    background-color: indigo;
+}
+p{
+    font-size: 25px;
+    background-color: khaki;
+    border-radius: 10px;
+    padding: 20px
+    ;
+}
