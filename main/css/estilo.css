@@ -17,3 +17,10 @@ body{
     border-radius: 10px;
     padding: 20px
 }
+
+span{
+    background-color: blue;
+}
+div{
+    background-color: brown;
+}
